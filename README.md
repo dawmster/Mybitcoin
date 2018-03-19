@@ -9,3 +9,7 @@ https://en.bitcoin.it/wiki/File:TxBinaryMap.png
 ### CoinJoin - original post of the creator
 
 https://bitcointalk.org/index.php?topic=279249
+
+#### Note:
+
+I didn't tested it yet, but I plan to.
